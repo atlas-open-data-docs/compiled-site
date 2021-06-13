@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ATLAS on ATLAS Open Data</title>
-    <link>http://opendata.atlas.cern/tags/atlas/</link>
+    <link>https://atlas-open-data-docs.github.io/site/tags/atlas/</link>
     <description>Recent content in ATLAS on ATLAS Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2020 21:51:13 +0100</lastBuildDate><atom:link href="http://opendata.atlas.cern/tags/atlas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Nov 2020 21:51:13 +0100</lastBuildDate><atom:link href="https://atlas-open-data-docs.github.io/site/tags/atlas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://opendata.atlas.cern/about/</link>
+      <link>https://atlas-open-data-docs.github.io/site/about/</link>
       <pubDate>Mon, 23 Nov 2020 21:51:13 +0100</pubDate>
       
-      <guid>http://opendata.atlas.cern/about/</guid>
+      <guid>https://atlas-open-data-docs.github.io/site/about/</guid>
       <description>Aims of this Open Access project</description>
     </item>
     

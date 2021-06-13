@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ATLAS Open Data</title>
-    <link>http://opendata.atlas.cern/it/</link>
+    <link>https://atlas-open-data-docs.github.io/site/it/</link>
     <description>Recent content on ATLAS Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://opendata.atlas.cern/it/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://atlas-open-data-docs.github.io/site/it/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

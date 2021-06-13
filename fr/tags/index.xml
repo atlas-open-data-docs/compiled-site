@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ATLAS Open Data</title>
-    <link>http://opendata.atlas.cern/fr/tags/</link>
+    <link>https://atlas-open-data-docs.github.io/site/fr/tags/</link>
     <description>Recent content in Tags on ATLAS Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2020 04:51:13 +0100</lastBuildDate><atom:link href="http://opendata.atlas.cern/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Nov 2020 04:51:13 +0100</lastBuildDate><atom:link href="https://atlas-open-data-docs.github.io/site/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>13 TeV</title>
-      <link>http://opendata.atlas.cern/fr/tags/13-tev/</link>
+      <link>https://atlas-open-data-docs.github.io/site/fr/tags/13-tev/</link>
       <pubDate>Mon, 23 Nov 2020 04:51:13 +0100</pubDate>
       
-      <guid>http://opendata.atlas.cern/fr/tags/13-tev/</guid>
+      <guid>https://atlas-open-data-docs.github.io/site/fr/tags/13-tev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>8 TeV</title>
-      <link>http://opendata.atlas.cern/fr/tags/8-tev/</link>
+      <link>https://atlas-open-data-docs.github.io/site/fr/tags/8-tev/</link>
       <pubDate>Mon, 23 Nov 2020 04:51:13 +0100</pubDate>
       
-      <guid>http://opendata.atlas.cern/fr/tags/8-tev/</guid>
+      <guid>https://atlas-open-data-docs.github.io/site/fr/tags/8-tev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>datasets</title>
-      <link>http://opendata.atlas.cern/fr/tags/datasets/</link>
+      <link>https://atlas-open-data-docs.github.io/site/fr/tags/datasets/</link>
       <pubDate>Mon, 23 Nov 2020 04:51:13 +0100</pubDate>
       
-      <guid>http://opendata.atlas.cern/fr/tags/datasets/</guid>
+      <guid>https://atlas-open-data-docs.github.io/site/fr/tags/datasets/</guid>
       <description></description>
     </item>
     
